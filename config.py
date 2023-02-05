@@ -18,7 +18,7 @@ import monai
 #-----------------------Config file DenseNet264 exp3 Start----------------------#
 #####################Variables Block Start#######################
 inp_dir="../Input/prep/exp1/"
-out_dir="../Output/Script2/Results/"
+out_dir="../Output/exp1/Results/"
 label_file = "../Input/prep/exp1/train.csv"
 NUM_IMAGES_3D = 64
 TRAINING_BATCH_SIZE = 4
