@@ -5,7 +5,7 @@ Radiogenomic image classification of MGMT promoter methylation status in gliobla
 This repository contains code to create a baseline model for 3D image classification using MRI scans. The scripts can be used with several command line arguments to perform relevant experiments. Multiple performance metrics, as well as the model's best train weight, will be available in the **Results** folder.
 
 ## Dataset 
-Please download the dataset from the Kaggle Challenge website **RSNA-MICCAI Brain Tumor Radiogenomic Classification**
+Please download the dataset from the Kaggle challenge website **RSNA-MICCAI Brain Tumor Radiogenomic Classification**
 
 ## Usage
 ### Major packages required
